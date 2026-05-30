@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604685931267",
+    "project_id": "my-soul-f7f6b",
+    "storage_bucket": "my-soul-f7f6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604685931267:android:7ba6c0e7245936e48d4f36",
+        "android_client_info": {
+          "package_name": "Com.mysoul.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs0NTQLh_UVKPsYsjGfDtf5M7fQ9jLl6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
